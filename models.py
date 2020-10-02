@@ -1,6 +1,5 @@
 from sqlalchemy import Column, Integer,String
 from passlib.apps import custom_app_context as pass_context
-from sqlalchemy.sql.schema import Index
 from database import Base
 
 class User(Base):
