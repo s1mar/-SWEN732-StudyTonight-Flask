@@ -1,1 +1,1 @@
-(SWEN732) StudyTonight Flask
+Backend of the (SWEN732) StudyTonight Flask web app
